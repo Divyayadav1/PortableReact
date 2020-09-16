@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PortableReact/static/css/main.523f09c5.chunk.css",
+    "main.js": "/PortableReact/static/js/main.dc52ee4d.chunk.js",
+    "main.js.map": "/PortableReact/static/js/main.dc52ee4d.chunk.js.map",
+    "runtime-main.js": "/PortableReact/static/js/runtime-main.f4f2e077.js",
+    "runtime-main.js.map": "/PortableReact/static/js/runtime-main.f4f2e077.js.map",
+    "static/js/2.2ef080de.chunk.js": "/PortableReact/static/js/2.2ef080de.chunk.js",
+    "static/js/2.2ef080de.chunk.js.map": "/PortableReact/static/js/2.2ef080de.chunk.js.map",
+    "index.html": "/PortableReact/index.html",
+    "precache-manifest.94f7bc6bad4418fe64d189627f7b6233.js": "/PortableReact/precache-manifest.94f7bc6bad4418fe64d189627f7b6233.js",
+    "service-worker.js": "/PortableReact/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/PortableReact/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.2ef080de.chunk.js.LICENSE.txt": "/PortableReact/static/js/2.2ef080de.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/PortableReact/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4f2e077.js",
+    "static/js/2.2ef080de.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.dc52ee4d.chunk.js"
+  ]
+}
